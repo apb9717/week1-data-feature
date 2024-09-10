@@ -34,3 +34,6 @@ Run the following cells in order and, when prompted, enter the first and last na
 # Prerequisites
 Python 3.x
 API keys for both balldontlie and Dept. of Education College Scorecard, added to **Secrets** in Google Colab.
+
+# Notes
+If I were to go back and try and improve this program, I would most likely try to use some sort of database of the true "main campuses" of state schools to avoid running into issues with data accuracy. There is technically nothing wrong with the information returned (it's all true!), but it becomes a lot less helpful if you're looking for UMD and you get UMGC which is essentially an online for-profit school that does not have basketball. More familiarity with the dataset itself would have helped with troubleshooting this.
