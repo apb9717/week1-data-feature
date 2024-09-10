@@ -20,9 +20,11 @@ This API fetches data from a large dataset of college statistics for higher educ
 
 # Setup Instructions
 
+Specific API key acquisition instructions are included in the Colab notebook.
+
 balldontlie API Key: Sign up on balldontlie and obtain your API key.
 
-Dept. of Education API Key: Sign up on News API and obtain your API key.
+Dept. of Education API Key: Sign up on Dept. of Education and obtain your API key.
 
 Install Required Python Package: Make sure you have Python installed. Then, install the "requests" package.
 
